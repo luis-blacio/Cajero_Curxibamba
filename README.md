@@ -1,0 +1,1 @@
+  # Busqueda avanzada cajero Curx.
